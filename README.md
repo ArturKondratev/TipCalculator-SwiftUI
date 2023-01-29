@@ -1,7 +1,5 @@
-
 <h1 align="center">
-
-    Tip Calculator
+    Калькулятор чаевых
     <br>
     SwiftUI :rocket:
     <br>    
